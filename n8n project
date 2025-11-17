@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial commit with n8n + YouTube node"
+git branch -M main
+git remote add origin https://github.com/Users/OMEN/n8n-project.git
+git push -u origin main
